@@ -1,10 +1,10 @@
-## Hi there 👋
+## Welcome!
 
-I'm an aerospace engineering undergraduate at The University of Sheffield, focusing on flight controls. I'm currently developing my skills in C++ and embedded systems for my future career.
+I'm an aerospace engineering undergraduate at The University of Sheffield, focusing on flight controls. I'm currently developing my skills in C++ and embedded systems for my future career 🙌
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### MarsWorks Rover LED Controller
 * **Description:** As an Electronics Engineer on the MarsWorks team, I'm designing and building a competition-compliant LED control system. My work involves the full engineering design cycle: from simulating and validating a robust MOSFET driver circuit in LTspice to designing the final, ERC-passed KiCad schematic. The system is controlled by an ATtiny85 microcontroller programmed in C++.
@@ -16,8 +16,8 @@ I'm an aerospace engineering undergraduate at The University of Sheffield, focus
 
 ---
 
-## 📚 I'm currently learning ...
-* **C++:** Building a strong foundation for embedded systems and real-time applications.
+## Current areas of interest
+* **Embedded C++:** Building a strong foundation for embedded systems and real-time applications.
 * **CUDA:** Exploring parallel computing for high-performance aerospace simulations.
 * **KiCad:** Translating circuit simulations into manufacturable PCB designs.
 
